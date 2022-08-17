@@ -7,5 +7,8 @@ Will you grow powerful enough to face the hero once they discover your true iden
 
 Note: Built in Twine. Not fully finished.
 
+### Art/Concepts
+![Still 1](https://i.ibb.co/dGP4z4y/Untitled-Artwork-171.png)
+
 ### Link (In Progress)
 http://yaleschoolofart.org/artofgame2022/students/Ron/prototype.html
