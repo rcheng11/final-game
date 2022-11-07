@@ -1,4 +1,4 @@
-# puffball-destroys-the-world
+# Final Game Project
 
 ### Game Concept
 When the hero’s prophesied villain is their most loyal, loved pet…
